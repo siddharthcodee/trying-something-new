@@ -26,6 +26,20 @@ a:hover {
 .link:hover {
   color: #12f8ad;
 }
+.link {
+  color: #fff;
+}
+
+.link:hover {
+  color: #12f8ad;
+}
+.link {
+  color: #fff;
+}
+
+.link:hover {
+  color: #12f8ad;
+}
 
 p {
   font-family: 500;
