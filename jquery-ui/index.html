@@ -462,7 +462,16 @@ $( "#autocomplete" ).autocomplete({
 	source: availableTags
 });
 
-
+  $( function() {
+    $( "#dialog-message" ).dialog({
+      modal: true,
+      buttons: {
+        Ok: function() {
+          $( this ).dialog( "close" );
+        }
+      }
+    });
+  } );
 
 $( "#button" ).button();
 $( "#button-icon" ).button({
