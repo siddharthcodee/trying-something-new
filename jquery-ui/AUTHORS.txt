@@ -45,6 +45,23 @@ Alberto Fernández Capel <afcapel@gmail.com>
 Jacek Jędrzejewski (http://jacek.jedrzejewski.name)
 Ting Kuei <ting@kuei.com>
 Samuel Cormier-Iijima <sam@chide.it>
+Paul Bakaus <paul.bakaus@gmail.com>
+Richard Worth <rdworth@gmail.com>
+Yehuda Katz <wycats@gmail.com>
+Sean Catchpole <sean@sunsean.com>
+John Resig <jeresig@gmail.com>
+Tane Piper <piper.tane@gmail.com>
+Paul Bakaus <paul.bakaus@gmail.com>
+Richard Worth <rdworth@gmail.com>
+Yehuda Katz <wycats@gmail.com>
+Sean Catchpole <sean@sunsean.com>
+John Resig <jeresig@gmail.com>
+Tane Piper <piper.tane@gmail.com>Paul Bakaus <paul.bakaus@gmail.com>
+Richard Worth <rdworth@gmail.com>
+Yehuda Katz <wycats@gmail.com>
+Sean Catchpole <sean@sunsean.com>
+John Resig <jeresig@gmail.com>
+Tane Piper <piper.tane@gmail.com>
 Jon Palmer <jonspalmer@gmail.com>
 Ben Hollis <bhollis@amazon.com>
 Justin MacCarthy <Justin@Rubystars.biz>
