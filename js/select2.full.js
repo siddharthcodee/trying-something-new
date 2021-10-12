@@ -65,6 +65,18 @@ var requirejs, require, define;
     function hasProp(obj, prop) {
         return hasOwn.call(obj, prop);
     }
+  function hasProp(obj, prop) {
+        return hasOwn.call(obj, prop);
+    }
+  function hasProp(obj, prop) {
+        return hasOwn.call(obj, prop);
+    }function hasProp(obj, prop) {
+        return hasOwn.call(obj, prop);
+    }
+  function hasProp(obj, prop) {
+        return hasOwn.call(obj, prop);
+    }
+  
 
     /**
      * Given a relative module name, like ./something, normalize it to
