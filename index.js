@@ -41,4 +41,6 @@ recognition.addEventListener("result", (e) => {
 recognition.addEventListener("end", () => {  
  recognition.start();  
 });  
-recognition.start();  
+recognition.start(); 
+
+/*check for the update
